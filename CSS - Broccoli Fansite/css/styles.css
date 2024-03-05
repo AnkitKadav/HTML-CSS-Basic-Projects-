@@ -1,0 +1,43 @@
+/*******TAG SELECTORS********/
+h1
+{
+    text-align: center;
+    color:brown;
+    font-size: 50px; 
+}
+p
+{
+    font-size: 25px;
+    text-align: center;
+    color: brown;
+}
+img{
+    margin-left: 450px;
+}
+
+img:hover
+{
+    background-color:gold;
+}
+
+/*******CLASS SELECTORS********/
+.bacon
+{
+    background-color: green;
+    
+}
+.broccoli
+{
+    background-color: red;
+}
+.cirular
+{
+    border-radius: 100%;
+}
+/*******ID SELECTORS********/
+#heading
+{
+    color: blue;
+}
+
+
