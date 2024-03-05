@@ -18,5 +18,4 @@ To view this project locally, follow these steps:
 - A web browser installed on your machine.
 ### Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/broccoli-fansite.git
+gh repo clone AnkitKadav/HTML-CSS-Basic-Projects-
