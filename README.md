@@ -8,8 +8,7 @@ A simple HTML and CSS project dedicated to expressing love for broccoli and shar
 - Stylish design with custom colors and fonts.
 ### Getting Started
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/broccoli-fansite.git
+   gh repo clone AnkitKadav/HTML-CSS-Basic-Projects-
 Open index.html in your web browser.
 Explore the website to discover messages about broccoli and a funny bacon joke.
 
@@ -25,7 +24,7 @@ Call to Action (CTA) section for app download.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/tindog.git
+gh repo clone AnkitKadav/HTML-CSS-Basic-Projects-
 Open the index.html file in your preferred web browser.
 Explore the TinDog website template to see the layout, features, and styling provided.
 
